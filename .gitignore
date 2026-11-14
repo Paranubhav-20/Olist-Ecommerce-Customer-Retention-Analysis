@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sensitive files
+.env
+*.log
+
+# Raw dataset - avoid uploading large source files
+data/raw/
+
+# Local database
+*.db
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db

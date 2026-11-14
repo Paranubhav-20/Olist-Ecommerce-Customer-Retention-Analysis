@@ -1,0 +1,8 @@
+metric,value
+total_delivered_orders,96478.0
+unique_customers,93358.0
+repeat_customers,2801.0
+one_time_customers,90557.0
+repeat_customer_rate_pct,3.0
+orders_from_repeat_customers,5921.0
+repeat_customer_order_share_pct,6.14

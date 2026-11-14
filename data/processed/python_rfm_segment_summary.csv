@@ -1,0 +1,8 @@
+segment,customers,total_item_value,average_frequency,average_recency_days,customer_share_pct
+Lapsed One-Time Customers,36347,5073897.42,1.0,395.4730789336121,38.93
+Other One-Time Customers,32787,1819447.23,1.0,134.32631835788575,35.12
+Recent High-Value One-Time Customers,14483,3869193.01,1.0,92.23026997169094,15.51
+High-Spend One-Time Customers,6940,1730551.7,1.0,220.63919308357347,7.43
+Recent Repeat Customers,1203,325603.02,2.1529509559434747,89.2236076475478,1.29
+Repeat High-Value Customers,1203,373801.56,2.0947630922693268,315.49459684123025,1.29
+Other Repeat Customers,395,29004.170000000002,2.053164556962025,333.1924050632911,0.42
