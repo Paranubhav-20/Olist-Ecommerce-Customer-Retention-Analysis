@@ -161,20 +161,29 @@ The Power BI report contains four analytical pages:
 - Customer purchasing metrics
 - Retention overview
 
+![Executive Overview](powerbi/screenshots/executive_overview.png)
+
 **2. Cohort Retention Analysis**
 - Monthly customer cohorts
 - Cohort retention matrix
 - Customer retention trends
+
+![Cohort Retention Analysis](powerbi/screenshots/cohort_retention.png)
+
 
 **3. RFM Customer Segmentation**
 - Customer segment distribution
 - Recency, Frequency and Monetary analysis
 - Customer value comparison
 
+![RFM Customer Segmentation](powerbi/screenshots/rfm_segmentation.png)
+
 **4. Business Insights & Recommendations**
 - Key analytical findings
 - Customer retention opportunities
 - Recommended business actions
+
+![Business Insights](powerbi/screenshots/business_insights.png)
 
 ## Business Recommendations
 
@@ -204,6 +213,7 @@ cd Olist-Ecommerce-Customer-Retention-Analysis
 ### 3. Create a virtual environment
 
 ```bash
+
 python -m venv venv
 ```
 
